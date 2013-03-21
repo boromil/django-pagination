@@ -56,7 +56,7 @@ setup(
         "Programming Language :: Python :: 2.7",
     ],
     install_requires=[
-        'django >= 1.2',
+        'Django >= 1.2',
     ],
     tests_require=[
         'django-testproject >= 0.1',
